@@ -19,7 +19,3 @@ THE TOPICS THAT ARE COVERED HERE AS FOLLOW:
 ## 14.Continue Statement
 ## 15.Functions(part-1)
 ## 16.Functions(part-2)
-## 17.Special Functions
-## 18.List Comprehensions
-## 19.Decorators
-## 20.Generators
