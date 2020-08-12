@@ -1,6 +1,9 @@
 # Python_Tutorials
-This is an one stop destination to learn the basics of python in an elaborated way.Each lines of code are  elaborated with comments .Each new topic is described and defined along with its respective code.
-THE TOPICS THAT ARE COVERED HERE AS FOLLOW:
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+##### This is an one stop destination to learn the basics of python in an elaborated way.Each lines of code are  elaborated with comments Each new topic is described and defined along with its respective code.
+###### THE TOPICS THAT ARE COVERED HERE AS FOLLOW:
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## 1.Python Variables
